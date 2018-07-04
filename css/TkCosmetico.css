@@ -1,0 +1,17 @@
+/*Ultilidades*/
+.oculto{font-size: 0px; margin: 0px; padding: 0px;}
+.logo{max-width: 400px;}
+
+/*Cores*/
+
+/*Backgrounds*/
+.bg-white{background: rgb(255, 255, 255);}
+
+/*Tamanhos de fontes*/
+
+
+/*Header*/
+.header{
+    width: 100%;
+    min-height: 65px;
+}
